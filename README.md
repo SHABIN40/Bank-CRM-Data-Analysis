@@ -12,7 +12,7 @@ The primary objective is to identify patterns and factors contributing to custom
 
 
 Processed and cleaned the data using Excel to ensure data quality and consistency.
-Leveraged SQL queries to extract and manipulate relevant data using joins,windows function,cte functions.
+Leveraged SQL queries to extract and manipulate relevant data using advanced sql  functions.
 
 # Data Visualization :
 
