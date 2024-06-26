@@ -1,28 +1,30 @@
 # Bank-CRM-Data-Analysis
 
-Overview
+Overview :
+
 This project involves a comprehensive analysis of a bank's CRM data to understand and analyze various aspects related to customer churn, service delivery mechanisms, and customer satisfaction levels. 
 
-Objective
+Objective :
+
 The primary objective is to identify patterns and factors contributing to customer churn and to develop strategies to mitigate the churn rate effectively.
 
-Data Preprocessing
+Data Preprocessing :
 
 
 Processed and cleaned the data using Excel to ensure data quality and consistency.
 Leveraged SQL queries to extract and manipulate relevant data using joins,windows function,cte functions.
 
-Data Visualization
+Data Visualization :
 
 
 Utilized PowerBI for data visualization to create interactive and insightful dashboards.
 Visualized key metrics and insights derived from the data analysis to provide a clear understanding of customer churn patterns, service delivery mechanisms, and customer satisfaction levels.
 
-Data Analysis
+Data Analysis :
 
 Applied advanced analytical techniques to identify factors contributing to customer churn, such as lack of services by the bank, increased numbers of inactive customers, and low customer engagement.
 
-Insights and suggestions
+Insights and suggestions :
 
 Identified key factors and patterns that contribute to customer churn and impact customer satisfaction.
 Developed strategies to provide customer segment-specific services to enhance customer satisfaction and retention.
