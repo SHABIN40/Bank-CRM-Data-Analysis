@@ -30,3 +30,8 @@ Identified key factors and patterns that contribute to customer churn and impact
 Developed strategies to provide customer segment-specific services to enhance customer satisfaction and retention.
 Formulated plans to relaunch targeted marketing campaigns to re-engage customers and attract potential customers.
 Implemented targeted retention efforts by upgrading customer support and services to mitigate the churn rate effectively.
+
+# Power BI Report
+
+![Screenshot 2024-04-09 140949](https://github.com/SHABIN40/Bank-CRM-Data-Analysis/assets/156992809/2e32ebc5-d9b5-4cb5-8667-de9a3b696c54)
+
